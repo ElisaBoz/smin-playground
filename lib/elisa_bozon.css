@@ -1,0 +1,17 @@
+#particles-js{
+	background-color:#8E1FDA  ;
+	height: 500px;
+}
+
+
+#montilt{
+		display: block;
+		position :absolute;
+		top :30%;
+		left :40%;
+		transform :translateZ(50px) ;
+		background :transparent;
+		color: white;
+		padding: 5%
+
+	}
